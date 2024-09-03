@@ -14,6 +14,6 @@ void main() {
   // windowManager.waitUntilReadyToShow(windowOptions, () async {
   //   await windowManager.show();
   //   await windowManager.focus();
-  // });}
+  // });}  g
   runApp(const ResponsivieDesign());
 }
